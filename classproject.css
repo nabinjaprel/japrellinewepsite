@@ -1,0 +1,170 @@
+.web-site{
+    background-color: rgba(252, 248, 248, 0.969);
+    padding:-0px;
+    margin:-0px
+}
+.box {
+    height: 550px;
+    border-radius: 0px 0px 100px 100px;
+    background-color: rgb(248, 227, 200);
+}
+
+.container {
+    display: flex;
+}
+
+.polygon {
+    margin: 20px 150px;
+    width: 70px;
+}
+
+.title {
+    font-size: 26px;
+    margin: -90px 178px;
+}
+
+.top-bar {
+    display: flex;
+    list-style-type: none;
+    margin: 40px 50px;
+   
+}
+
+.top-bar a {
+    text-decoration: none;
+    padding: 20px;
+    color: black;
+    font-size: 18px;
+}
+.top-bar a:hover{
+    color: blue;
+    font-size: 20px;
+    border-color: black;
+    border-style: 1px;
+}
+
+.btn1 {
+    width: 70px;
+    height: 33px;
+    border-radius: 15px;
+    border: 2px;
+    margin: 35px 5px;
+    background-color: white;
+}
+ .btn1:hover{
+    color: rgb(255, 255, 255);
+    background-color: black;
+} 
+.btn2 {
+    width: 80px;
+    height: 33px;
+    border-radius: 15px;
+    border: 2px;
+    margin: 15px;
+    color: white;
+    background-color: rgb(250, 152, 4);
+
+}
+.btn2:hover{
+    color: rgb(250, 152, 4);
+    background-color: white;
+}
+.top-text{
+    padding-left: 150px;
+    white-space: pre;
+}
+.first-text {
+    color: rgb(22, 6, 114);
+    white-space: pre;
+    margin: 10px 90px;
+}
+
+.study {
+    color: rgb(250, 152, 4);
+}
+
+.paragraph {
+    white-space: pre;
+    margin: 10px 90px;
+}
+.botton-text{
+    margin: 40px 90px; 
+    width: 240px; 
+    height: 40px;
+    text-align: center;
+    border-radius: 18px;
+    color: rgb(252, 252, 252);
+    background-color: rgb(250, 152, 4);
+    border-color:  rgb(250, 152, 4);
+}
+.botton-text:hover{
+    color: rgb(250, 152, 4);
+    background-color: white;
+}
+.text-but{
+font-size: 14px;
+}
+.arrow-img{
+    padding-left: 150px;
+    margin-top: 1px;
+    color: brown;
+}
+.boy {
+    margin-left: -100px;
+    width: 480px;
+    height:520px ;
+    margin-top: -52px;
+}
+.first-text{
+    display: flex;
+}
+.image1{
+    width: 330px;
+    height: 240px;
+    padding-left: 70px;
+}
+.image1:hover{
+    width: 335px;
+    height: 245px;
+}
+.blog-image{
+display: flex;
+}
+.about-us{
+  margin-top: 30px;
+    text-align: left;
+    width: 620px;
+    height: 300px;
+    margin-left: 320px;
+    background-color: rgb(246, 237, 194);
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-shadow: 2px 2px 13px rgb(42, 41, 41);
+
+    
+    
+}
+.about-box{
+    text-align: center;
+    margin-left: 550px;
+    background-color: rgba(248, 227, 200, 0.906); 
+    width: 190px;
+    box-shadow: 0.6px 0.5px 6px rgba(235, 225, 173, 0.998);
+    font-size:30px;
+}
+.about-box:hover{
+    color: rgba(4, 9, 255, 0.906) ;
+    font-size:32px;
+}
+.info{
+    margin-left: 200px;
+    margin-top: 50px;
+    width: 900px;
+    height:300px;
+    text-align: center;
+    box-shadow: 2px 2px 13px rgb(42, 41, 41);
+    background-color: rgb(246, 237, 194);
+    padding-top: 28px;
+    padding:left;
+}

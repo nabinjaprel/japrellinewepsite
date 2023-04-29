@@ -1,0 +1,78 @@
+.first-backside-color{
+    background-color: rgb(197, 196, 196);
+    display: flex;
+}
+.logo-image{
+   margin-top: -500px;
+   margin-left: 240px;
+}
+.top-bar{
+    display: flex;
+    list-style-type: none;
+    margin-left: 70px;
+    margin-top: -460px;
+    width: 750px;
+}
+.top-bar a:hover{
+    color: blue;
+    font-size:20px;
+
+}
+.paragraph{
+    margin-top: -250px 
+    ;
+    text-align: center;
+    color: blue;
+}
+.paragraph:hover{
+    color: black;
+    font-size: 34px;
+}
+a{
+    color:rgb(16, 11, 11);
+    font-size: large;
+    padding: 30px;
+    text-decoration: none;
+
+}
+.background-photo{
+width: 1250px;
+height: 800px;
+margin-top: -300px;
+background-color: rgba(31, 29, 29, 0.36);
+}
+.introduction{
+    font-size: 24;
+    text-align: center;
+    border: 1px 1px 10px black;
+    padding-top: 180px;
+    font-size: 34px;
+ 
+}
+.info{
+    margin-top: -100px;
+    height: 800px;
+    background-color: rgba(31, 29, 29, 0.118);
+    display: flex;
+s
+}
+.info-left{
+    margin-top: 100px;
+    background-color: rgb(255, 253, 253);
+    width: 150%;
+    margin-left:10px
+}
+.info-left h1{
+    padding-top: 20px;
+    text-align: center;
+}
+.info-left h1{
+    padding-top: 20px;
+    text-align: center;
+}
+.info-right{
+    margin-left: 90px;
+    width: 80%;
+    margin-top: 100px;
+    background-color: rgb(255, 253, 253);
+}
